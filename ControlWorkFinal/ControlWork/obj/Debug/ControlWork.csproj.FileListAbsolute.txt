@@ -1,0 +1,14 @@
+c:\users\баракпаево\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csprojAssemblyReference.cache
+c:\users\баракпаево\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.CoreCompileInputs.cache
+c:\users\баракпаево\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.exe.config
+c:\users\баракпаево\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.exe
+c:\users\баракпаево\source\repos\ControlWork\ControlWork\bin\Debug\ControlWork.pdb
+c:\users\баракпаево\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.exe
+c:\users\баракпаево\source\repos\ControlWork\ControlWork\obj\Debug\ControlWork.pdb
+C:\Users\User\Documents\_-Шаг-_\Шаг\C_sharp-master\ControlWork\ControlWork\bin\Debug\ControlWork.exe.config
+C:\Users\User\Documents\_-Шаг-_\Шаг\C_sharp-master\ControlWork\ControlWork\bin\Debug\ControlWork.exe
+C:\Users\User\Documents\_-Шаг-_\Шаг\C_sharp-master\ControlWork\ControlWork\bin\Debug\ControlWork.pdb
+C:\Users\User\Documents\_-Шаг-_\Шаг\C_sharp-master\ControlWork\ControlWork\obj\Debug\ControlWork.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\_-Шаг-_\Шаг\C_sharp-master\ControlWork\ControlWork\obj\Debug\ControlWork.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\_-Шаг-_\Шаг\C_sharp-master\ControlWork\ControlWork\obj\Debug\ControlWork.exe
+C:\Users\User\Documents\_-Шаг-_\Шаг\C_sharp-master\ControlWork\ControlWork\obj\Debug\ControlWork.pdb
